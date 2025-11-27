@@ -1,0 +1,6 @@
+transaction_id,user_id,amount,timestamp,merchant,country,device
+T001,U101,8500.00,2025-04-05 10:20:00,Amazon,USA,iphone15
+T002,U102,150.00,2025-04-05 10:21:00,Walmart,USA,android_old
+T003,U101,7200.00,2025-04-05 10:22:00,BestBuy,Canada,new_laptop_123
+T004,U103,12000.00,2025-04-05 10:23:00,Ebay,India,windows_new
+T005,U104,89.99,2025-04-05 10:24:00,Target,USA,iphone12
