@@ -15,3 +15,8 @@ Python • PySpark • Delta Lake • Databricks-style pattern • Great Expecta
 ```bash
 pip install pyspark pandas
 python main.py
+
+# Payment Fraud Detector (Real-Time)
+
+![Fraud Detection Output](fraud-output.png)
+A beginner-friendly but production-ready real-time fraud detection pipeline...
