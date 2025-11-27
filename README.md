@@ -1,6 +1,6 @@
 # Payment Fraud Detector (Real-Time) 
 
-A beginner-friendly but production-ready **real-time fraud detection pipeline** I built to showcase skills required in fintech data engineering roles.
+A beginner-friendly but production-ready **real-time fraud detection pipeline** I built to showcase skills required in fintech data engineering.
 
 ## What it does
 - Simulates 10,000+ payment transactions per minute
